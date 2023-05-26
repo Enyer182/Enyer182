@@ -19,14 +19,14 @@
 
 ### 💬 Detailed Info:
 
-- I’m currently working full-stack decentralized application, involving a frontend built with React and Vite and a backend orchestrated by Node.js. The backend is designed to interact with Ethereum's blockchain via Solidity smart contracts.
+- I’m currently working on full-stack decentralized application, involving a frontend built with React and Vite and a backend orchestrated by Node.js. The backend is designed to interact with Ethereum's blockchain via Solidity smart contracts.
 The application centers around the concept of a DAO (Decentralized Autonomous Organization) where users can create proposals and vote on them. The application enforces several complex blockchain mechanisms, such as secure math operations, reentrancy guards, contract ownership, and management of ERC20 tokens.
 
-- I’m currently learning strong passion for decentralized applications and blockchain technology. His toolset includes several cutting-edge technologies such as React.js, Next.js, Solidity, Blockchain, Node.js, TypeScript, Python, and Django. Currently, looking forward to heavily invest in using Next.js for his front-end development tasks. 
+- I’m currently learning strong passion for decentralized applications and blockchain technology. the toolset includes several cutting-edge technologies such as React.js, Next.js, Solidity, Blockchain, Node.js, TypeScript, Python, and Django. Currently, looking forward to heavily invest in using Next.js for my front-end development tasks. 
 
 - I’m looking to collaborate on aim to continue refining and expanding my knowledge in Blockchain and AI technologies. I plan to create more intuitive, accessible, and user-friendly decentralized applications that cater to a wide range of user needs. I'm particularly interested in further exploring the capabilities of AI in improving the usability and accessibility of blockchain applications. 
 
-- 💬 Talk to me about  I am always open to exciting job opportunities that challenge my skill set and allow me to make meaningful contributions.
+- 💬 Talk to me about:  I am always open to exciting job opportunities that challenge my skill set and allow me to make meaningful contributions.
 
 - My strengths lie in developing full-stack applications, especially with a focus on decentralized technology. I am also adept at integrating AI capabilities into applications, aiming to enhance accessibility and user experience. 
 
