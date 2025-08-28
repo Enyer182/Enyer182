@@ -15,20 +15,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=DAF787&multiline=true&width=453&height=150&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Agile+Engine;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Next.js;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+the+Blockchain;%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+mentorship;%F0%9F%93%AB+How+to+reach+me%3A+enyer%40leafcloudstudio.com)](https://git.io/typing-svg)
 
 ### 💬 Detailed Info:
 
-- I’m currently working on full-stack decentralized application, involving a frontend built with React and Vite and a backend orchestrated by Node.js. The backend is designed to interact with Ethereum's blockchain via Solidity smart contracts.
-The application centers around the concept of a DAO (Decentralized Autonomous Organization) where users can create proposals and vote on them. The application enforces several complex blockchain mechanisms, such as secure math operations, reentrancy guards, contract ownership, and management of ERC20 tokens.
-
-- I’m currently learning strong passion for decentralized applications and blockchain technology. the toolset includes several cutting-edge technologies such as React.js, Next.js, Solidity, Blockchain, Node.js, TypeScript, Python, and Django. Currently, looking forward to heavily invest in using Next.js for my front-end development tasks. 
-
-- I’m looking to collaborate on aim to continue refining and expanding my knowledge in Blockchain and AI technologies. I plan to create more intuitive, accessible, and user-friendly decentralized applications that cater to a wide range of user needs. I'm particularly interested in further exploring the capabilities of AI in improving the usability and accessibility of blockchain applications. 
-
-- 💬 Talk to me about:  I am always open to exciting job opportunities that challenge my skill set and allow me to make meaningful contributions.
-
-- My strengths lie in developing full-stack applications, especially with a focus on decentralized technology. I am also adept at integrating AI capabilities into applications, aiming to enhance accessibility and user experience. 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/Enyer182?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -51,7 +40,7 @@ The application centers around the concept of a DAO (Decentralized Autonomous Or
   <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a> 
  
-
+A talented Software developer focusing on React, Next.js, TypeScript, and Python offering a combination of cross-functional skills with 4+ years of commercial experience in Web Development and Data Analysis. Expertise includes requirements gathering, analysis, and technological innovation, and responsible for designing, implementing, and developing efficient solutions from scratch.
   
   
 ## ⚡Stats
