@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="280" viewBox="0 0 1100 280" role="img" aria-labelledby="title desc">
+  <title id="title">Enyerbeth Quiroz — Software engineer and creative developer</title>
+  <desc id="desc">Building software. Shaping worlds. A dark editorial banner with warm gold orbital lines.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101716"/>
+      <stop offset="1" stop-color="#17231e"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#bca872" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#bca872" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="edge"><rect width="1100" height="280" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#edge)">
+    <rect width="1100" height="280" fill="url(#background)"/>
+    <circle cx="945" cy="127" r="215" fill="url(#halo)"/>
+    <g fill="none" stroke="#c8b580">
+      <circle cx="938" cy="126" r="150" opacity=".14"/>
+      <circle cx="938" cy="126" r="116" opacity=".28"/>
+      <circle cx="938" cy="126" r="81" opacity=".5"/>
+      <ellipse cx="938" cy="126" rx="150" ry="43" transform="rotate(-38 938 126)" opacity=".38"/>
+      <ellipse cx="938" cy="126" rx="150" ry="43" transform="rotate(38 938 126)" opacity=".2"/>
+      <path d="M938 -24V276M788 126H1088" opacity=".12"/>
+    </g>
+    <circle cx="938" cy="126" r="5" fill="#e4d5a3"/>
+    <circle cx="1012" cy="94" r="3" fill="#c8b580"/>
+    <path d="M43 44H61" stroke="#d3bf8a" stroke-width="2"/>
+    <text x="73" y="49" font-family="'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="2" fill="#d3bf8a">SOFTWARE ENGINEER / CREATIVE DEVELOPER</text>
+    <text x="42" y="127" font-family="'Segoe UI',Arial,sans-serif" font-size="56" font-weight="600" letter-spacing="-2" fill="#f1f0e9">Enyerbeth Quiroz</text>
+    <text x="44" y="175" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#b5c1b7">Building software. Shaping worlds.</text>
+    <path d="M44 219H1056" stroke="#bccab9" stroke-opacity=".16"/>
+    <text x="44" y="251" font-family="'Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="2" fill="#97a99b">WEB APPLICATIONS · REAL-TIME GRAPHICS · DEVELOPER TOOLS</text>
+    <text x="1056" y="251" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="2" fill="#c8b580">ENYER182</text>
+  </g>
+</svg>
