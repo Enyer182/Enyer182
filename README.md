@@ -1,45 +1,45 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Enyerbeth Quiroz — Software engineer and creative developer. Building software. Shaping worlds." />
+  <img src="./assets/profile-header.svg" width="100%" alt="Enyerbeth Quiroz — Full Stack / Python engineer. FastAPI, RAG, agents, GCP." />
 </p>
 
-I build web applications, interactive worlds, and tools for developers. My work brings together **React and TypeScript**, **real-time graphics**, and **game development**, with Python for automation and data analysis.
+I'm **Enyer** (Enyerbeth Quiroz), a full-stack / Python engineer in Buenos Aires. I build backend services and AI systems — **FastAPI**, **RAG**, **agent workflows**, **GCP** — and I've spent a lot of time shipping **Next.js** in production.
 
-I'm especially interested in the space where solid engineering meets atmosphere, sound, and interaction.
+Production work has included teams at **Nybble** and **AgileEngine**, on products used at **Indeed** and **Royal Caribbean**.
 
-[LinkedIn](https://www.linkedin.com/in/enyerbeth-quiroz-372b67169/) · [Explore ECHO FIELD](https://echo-field-gamma.vercel.app/) · [Public repositories](https://github.com/Enyer182?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/enyerbeth-quiroz-372b67169/) · [Portfolio](https://tech-with-enyer-portfolio.vercel.app) · [Echo Field](https://echo-field-gamma.vercel.app/)
 
-## Currently building
+## Focus
 
-### ECHO FIELD
+**Backend & AI** — Python, FastAPI, RAG, agentic workflows, prompt engineering, GCP, Docker. I care about retrieval that actually finds the right context, tools that agents can call without mystery failures, and services that stay operable after the demo.
 
-A first-person browser game set in an overgrown, reactive world. Explore five connected sectors, weave energy into spells, and face cinematic encounters along the way.
+**Web** — Next.js, TypeScript, GraphQL. Same habit as the backend work: clear contracts, readable architecture, something a team can ship and keep.
 
-<a href="https://echo-field-gamma.vercel.app/">
-  <img src="./assets/echo-field.png" width="100%" alt="ECHO FIELD gameplay: a glowing signal ring above a reflective path, surrounded by grass and monumental concrete architecture at sunset." />
-</a>
-
-**WebGPU · WGSL · vgpu · TypeScript · Next.js · Web Audio**
-
-I'm developing the rendering, combat, world interactions, spatial audio, and player experience together—from GPU particle effects to the first moments of play.
-
-**[Enter the field ↗](https://echo-field-gamma.vercel.app/)** · In development · Requires a WebGPU-enabled browser
+**Creative** — Three.js, React Three Fiber, WebGPU. [Echo Field](https://echo-field-gamma.vercel.app/) lives here. It's real, and it's secondary to the Python / backend / AI work.
 
 ## Selected work
 
-| Project | What I built |
+| Project | What it is |
 | :--- | :--- |
-| **[Codex Unity MCP](https://github.com/Enyer182/codex-unity-mcp)** | A C# and Python bridge connecting Codex to a live Unity Editor for scene inspection, asset queries, and editor operations. |
-| **[Echosphere](https://github.com/Enyer182/echosphere)** | A generative audiovisual landscape with procedural terrain and interactive sound layers. Built with React Three Fiber and Tone.js. |
-| **[PS1 Nostalgia Room](https://github.com/Enyer182/ps1-room-app)** | An interactive 3D bedroom with a playable CRT, browser emulation, and a runtime room editor. Built with React and Three.js. |
+| **[speech-to-gpt3](https://github.com/Enyer182/speech-to-gpt3)** | AI chat with speech input and image generation against the OpenAI API. |
+| **[SQL_to_Google_SpreadSheet](https://github.com/Enyer182/SQL_to_Google_SpreadSheet)** | Python + pandas connector that pulls SQL results into Google Sheets. |
+| **[analisis-votaciones-venezuela-2024](https://github.com/Enyer182/analisis-votaciones-venezuela-2024)** | Jupyter notebooks analyzing public 2024 Venezuelan election data for statistical anomalies. |
+| **[self-host-n8n-on-gcp](https://github.com/Enyer182/self-host-n8n-on-gcp)** | Terraform + Cloud Run + Cloud SQL setup for self-hosting n8n on GCP. |
+| **[codex-unity-mcp](https://github.com/Enyer182/codex-unity-mcp)** | C# / Python MCP bridge so Codex can inspect and drive a live Unity Editor. |
+| **[Echo Field](https://echo-field-gamma.vercel.app/)** / **[echosphere](https://github.com/Enyer182/echosphere)** | Browser world and generative audiovisual landscape in Three.js / R3F. Secondary to the backend work. |
 
-## Tools I work with
+<a href="https://echo-field-gamma.vercel.app/">
+  <img src="./assets/echo-field.png" width="100%" alt="ECHO FIELD: a glowing signal ring above a reflective path, surrounded by grass and monumental concrete architecture at sunset." />
+</a>
 
-- **Web:** TypeScript, JavaScript, React, Next.js, Node.js
-- **Graphics & games:** WebGPU, WGSL, Three.js, React Three Fiber, Unity, C#
-- **Automation & data:** Python, SQL, MCP integrations
+## Tools
 
-I care about readable architecture, accessible interfaces, and performance that holds up during real interaction.
+- **Python & AI:** Python, FastAPI, RAG, agent workflows, prompt engineering, pandas, Jupyter
+- **Cloud & ops:** GCP (Cloud Run, Cloud SQL), Docker, Terraform
+- **Web:** Next.js, TypeScript, React, GraphQL, Node.js
+- **Creative:** Three.js, React Three Fiber, WebGPU, Unity, C#
+
+I like code that stays readable after the first demo, and AI features that fail in obvious, recoverable ways.
 
 ---
 
-Interested in creative development, browser games, or developer tools? **[Let's connect on LinkedIn.](https://www.linkedin.com/in/enyerbeth-quiroz-372b67169/)**
+Open to senior Python, backend, and AI roles. **[LinkedIn](https://www.linkedin.com/in/enyerbeth-quiroz-372b67169/)** · **[Portfolio](https://tech-with-enyer-portfolio.vercel.app)**
